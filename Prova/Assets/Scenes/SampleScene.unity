@@ -285,6 +285,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: OggettiConScript
       objectReference: {fileID: 0}
+    - target: {fileID: 6048614000782792884, guid: ba6dd9607ee062045bfaeaafdf9a643e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.785
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048614000782792884, guid: ba6dd9607ee062045bfaeaafdf9a643e,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.3201723
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048614000782792884, guid: ba6dd9607ee062045bfaeaafdf9a643e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.975
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048614000782792884, guid: ba6dd9607ee062045bfaeaafdf9a643e,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2301617
+      objectReference: {fileID: 0}
     - target: {fileID: 8591340937240799038, guid: ba6dd9607ee062045bfaeaafdf9a643e,
         type: 3}
       propertyPath: m_LocalPosition.x
